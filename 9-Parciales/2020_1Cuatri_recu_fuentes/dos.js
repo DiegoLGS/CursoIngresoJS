@@ -1,4 +1,14 @@
 function mostrar()
 {
-  alert("dos");
-}
+
+
+
+  }
+
+
+
+
+
+
+
+  
